@@ -1,4 +1,4 @@
-This pack was made by Buster Dachshund.
+This pack was made by Buster.
 
 Disney                                 (for creating Disney's Toontown Online)
 The Toontown Rewritten Team  (for reviving Disney's Toontown Online (and HD toontask texture!)
@@ -8,5 +8,5 @@ Comrade United                     (for uncompressed music)
 Other Toons                          (for testing textures)
 SirBeppo                              (for music) - https://www.youtube.com/channel/UCxRtczzQrCcvQvCauEo8Y4Q
 GroverTTC                            (for music) - https://www.youtube.com/user/GroverTTC
-Toontown Remastered            (for music) - https://www.youtube.com/user/ToontownRemastered
+Toontown Remastered            (for music)  - https://www.youtube.com/user/ToontownRemastered
 Other Toons                         (for input)
