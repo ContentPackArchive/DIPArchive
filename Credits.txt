@@ -1,10 +1,21 @@
-This pack was made by Buster.
+Thanks to the people who provided the textures & audio!
 
-Disney                                         (for creating Disney's Toontown Online)
-The Toontown Rewritten Team          (for reviving Disney's Toontown Online (and HD toontask texture!))
-daisyrules406 / Wittle Bwue Mousie (for amazing DIP & default texture remakes, + Mel the Envelope.)
-SoundlessComet                            (for HD estate painting textures.) - http://soundlesscomet.deviantart.com/
-Big Bingo Biggenboom                     (for blue pixie dust texture.)
-Comrade United                             (for uncompressed music.)
-Many Other Toons                          (for testing textures.)
-Many Other Toons                          (for input.)
+Big Bingo Biggenboom, for Pixie Dust icon texture.
+Comrade United, for uncompressed music.
+daisyrules406 / Wittle Bwue Mousie, for Cog suit textures, door textures, Sellbot and Cashbot Cog building textures, Cog boss suit textures, & Gag shop textures.
+Forkrave, for Cog building battle music.
+SoundlessComet, for estate painting textures.
+The TTR Team, for the ToonTask texture, Cog building intermission music, Cogtastrophe music & CEO battle music.
+
+---
+
+Thanks to the people who helped me test textures & gave input!
+
+Defective Gamer
+Michael_SK
+Pedalklunk Doofy
+Thalldor's Games
+
+---
+
+And thank YOU for downloading and using my pack! :-)
